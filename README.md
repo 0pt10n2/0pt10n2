@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @0pt10n2
-- 👀 I'm interested in the wonderfill world of infosec. I'm new don't hack me please.
-- 🌱 I’m currently learning howto not get lost in this spaghetti bowl of wonder and delight.
-- 💞️ I’m looking to collaborate on entry level projects pertaining to web applications and database management.
-- 📫 How to reach me 0pt10n2@bluspur.com
+@0pt10n2
+- 👀 I'm interested in the wonderfull world of infosec. Aspiring security researcher, dog dad, beer and beer.
+I’m currently learning how to get less lost in this spaghetti bowl of wonder and delight.
+-Changing careers and I’m looking to collaborate on entry level projects pertaining to web applications and database management.
+Email: 0pt10n2@bluspur.com
 
 <!---
 0pt10n2/0pt10n2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
